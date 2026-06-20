@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=145fcd&height=120&section=header"/>
 
 <!-- TEXTO ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=145fcd&size=35&center=true&vCenter=true&width=1000&lines=Olá,Sejam+todos+bem-vindos!;Meu+nome+é+Ildefonso;Tenho+39+anos;Moro+na+cidade+de+Itu,+São+Paulo;Sou+formado+em+Ciências+da+Computação+;Estou+cursando+Javacscript+e+Typescrit+;Estou+trabalhando+atualmente+na+área+de+manutenção+de+computadores+e+suporte+técnico+para+empresas+e+cliente+final+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=145fcd&size=35&center=true&vCenter=true&width=1000&lines=Olá,Sejam+todos+bem-vindos!;Meu+nome+é+Ildefonso;Tenho+39+anos;Moro+na+cidade+de+Itu,+São+Paulo;Sou+formado+em+Ciências+da+Computação+;Estou+cursando+JavaScript+e+Typescript+;Estou+trabalhando+atualmente+na+área+de+manutenção+de+computadores+e+suporte+técnico+para+empresas+e+cliente+final+:%29)](https://git.io/typing-svg) 
 
 # Sobre Mim
 Sou Bacharel em Ciência da Computação e atualmente estou focado nos estudos de desenvolvimento web com JavaScript, TypeScript e React.
