@@ -5,11 +5,11 @@
 <!-- TEXTO ANIMADO -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=145fcd&size=35&center=true&vCenter=true&width=1000&lines=Olá,Sejam+todos+bem-vindos!;Meu+nome+é+Ildefonso;Tenho+39+anos;Moro+na+cidade+de+Itu,+São+Paulo;Sou+formado+em+Ciências+da+Computação+;Estou+cursando+Javacscript+e+Typescrit+;Estou+trabalhando+atualmente+na+área+de+manutenção+de+computadores+e+suporte+técnico+para+empresas+e+cliente+final+:%29)](https://git.io/typing-svg) 
 
-# 👨‍💻 Sobre Mim
+# Sobre Mim
 Sou Bacharel em Ciência da Computação e atualmente estou focado nos estudos de desenvolvimento web com JavaScript, TypeScript e React.
 
 <!-- ESTATÍSTICAS -->
-## 📊 Estatísticas GitHub
+# Estatísticas GitHub
 <div align="center">  
   <img width="49%" height="195px"
 src="https://github-readme-stats.vercel.app/api?username=ildefonsoLoureiroJr&show_icons=true&count_private=true&hide_border=true&title_color=145fcd&icon_color=145fcd&text_color=c9d1d9&bg_color=0d1117"/> 
@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 
 
 <!-- TECNOLOGIAS -->
-## 🚀 Tecnologias
+# Tecnologias
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ilde-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,7 +42,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 
 
 <!-- SNAKE -->
-## 🐍 Snake Contributions
+# Snake Contributions
 <div>
 
 <picture>
@@ -55,12 +55,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 
 
 <!-- GRAFICO -->
-## 📈 Activity Graph
+#Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ildefonsoLoureiroJr&bg_color=000000&color=145fcd&line=145fcd&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <!-- TROFÉUS -->
-## 🏆 GitHub Trophies
+# GitHub Trophies
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -68,7 +68,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 <!-- ESTUDANDO -->
-## 📚 Atualmente Estudando
+# Atualmente Estudando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
@@ -76,7 +76,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 
 <!-- FERRAMENTAS -->
 
-## 🛠 Ferramentas
+# Ferramentas
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
@@ -88,7 +88,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildefonsoLou
 
 <!-- VISITANTES -->
 
-## 👀 Visitantes
+# Visitantes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ildefonsoLoureiroJr&label=Visualizações+do+Perfil&color=145fcd&style=for-the-badge" alt="Contador de visitas"/>
